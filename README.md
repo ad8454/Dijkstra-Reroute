@@ -1,5 +1,5 @@
-# Djikastra-Reroute
-A simple rerouting program that randomly generates a graph and uses Djikstra's algorithm to find the shortest path 
+# Dijkstra-Reroute
+A simple rerouting program that randomly generates a graph and uses Dijkstra's algorithm to find the shortest path 
 between two nodes. The program then quickly reroutes in case of a node faliure. The graphs at each stage were visualized with Java Swing.
 
 </br></br></br>
